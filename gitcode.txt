@@ -1,0 +1,12 @@
+github.com
+dothanghn01@gmail.com   12345679tT@
+
+https://github.com/vohinha1/chiasecode.git
+
+dothanghn01@gmail.com     12345679tT@
+
+
+git clone https://github.com/vohinha1/codehay.git
+git add .
+git commit -m "first commit"
+git push
